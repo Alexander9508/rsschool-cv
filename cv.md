@@ -1,5 +1,5 @@
 1. Alexander Petkiev;
-2. Contact INfo: 
+2. Contact Info: 
 phone number:8-937-084-65-75,
 e-mail:sashapetkiev@gmail.com;
 3. I want to find a job by profession and to improve knowledge in IT;
