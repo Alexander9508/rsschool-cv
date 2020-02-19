@@ -1,0 +1,27 @@
+body {
+  padding: 0 30px;
+
+  font-size: 14px;
+  line-height: 22px;
+  font-family: "Arial", serif;
+   color: rgb(300, 200, 541);
+}
+
+.main-title {
+    text-align: center;
+    line-height: 20px;
+    margin-bottom: 43px;
+    color: rgb(30, 200, 541);
+
+}
+.hr {
+    border: none;
+    background-color: rgba(160, 161, 235, 0.575); 
+    color: rgba(160, 161, 235, 0.575); ; 
+    height: 12px;
+
+}
+
+
+
+
