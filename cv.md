@@ -10,4 +10,4 @@ C#,Lazarus;SecretNet, Dallas Lock, Cisco Packet Tracer, Wireshark, XSpider,MS Ac
             Console.WriteLine("Hello World!");
 6. Experience:Engineer department of information security Volgograde State university(1 year 2 month)
 7. Education: Volgograde State University, department of Information security, Bachelors degree in Information security(2012-2016) 
-8. A1
+8. A2
